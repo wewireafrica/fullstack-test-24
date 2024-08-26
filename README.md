@@ -55,7 +55,6 @@ The application should provide currency conversion, signin functionality and pro
 1. Create a private GitHub repository for your project.
 2. Include a README.md with:
    - Setup instructions
-   - Explanation of security measures, especially replay attack prevention
    - List of completed features and any known issues
 3. Commit your code regularly to show your progress.
 4. Once completed, share the link to your repository ( make it public )

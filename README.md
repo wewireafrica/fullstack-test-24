@@ -13,7 +13,7 @@ The application should provide currency conversion, signin functionality and pro
    - GET /exchange-rates - Current exchange rates for supported currencies
    - POST /convert - Perform a currency conversion
    - GET /user/transactions - Retrieve user's conversion history ( Users can only convert when they login )
-3. Integrate with an external API (e.g., Open Exchange Rates) to fetch real-time exchange rate data.
+3. You are permitted to integrate with an external API (e.g., Open Exchange Rates) to fetch exchange rate data.
 4. Use PostgreSQL for storing user data and transaction history.
 5. Implement measures to prevent replay attacks.
 6. Write functional tests for key functionalities.
@@ -58,6 +58,6 @@ The application should provide currency conversion, signin functionality and pro
    - Explanation of security measures, especially replay attack prevention
    - List of completed features and any known issues
 3. Commit your code regularly to show your progress.
-4. Once completed, invite the team to your repository ( engineering@wewire.com )
+4. Once completed, share the link to your repository ( make it public )
 
 We look forward to reviewing your solution, happy hacking!
